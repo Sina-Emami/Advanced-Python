@@ -9,4 +9,4 @@ My lectures about advance topics of python which are essential for algorithmic t
 * <a href="https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333"> Python for Finance: Mastering Data-Driven Finance</a>
 * <a href="https://www.w3schools.com/"> w3schools</a>
 * <a href="https://www.geeksforgeeks.org/">geeksforgeeks</a>
-* * <a href="https://quera.org/">quera</a>
+* <a href="https://quera.org/">quera</a>
