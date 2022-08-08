@@ -2,7 +2,9 @@
 
 My lectures about advance topics of python which are essential for algorithmic trading
 
-<br>This repository will update</br>
+</br>
+**This repository will update continuasly**
+</br>
 
 ## Sources:
 * <a href="https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730"> Learning Python: Powerful Object-Oriented Programming</a>
