@@ -3,7 +3,7 @@
 My lectures about advance topics of python which are essential for algorithmic trading
 
 </br>
-<strong>This repository will update continuasly</strong>
+<strong>This repository will update continuously</strong>
 </br>
 
 ## Sources:
